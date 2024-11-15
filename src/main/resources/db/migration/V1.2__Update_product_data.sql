@@ -1,0 +1,3 @@
+UPDATE PRODUCT
+SET price = 15.99
+WHERE id = 1;
